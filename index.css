@@ -445,7 +445,10 @@ a{
     width: 600px;
     text-align: center;
   }
-  textarea {
+.input_s{
+    height: 100px;
+  }
+/*   textarea {
     padding: 10px;
     text-align: center;
     margin-top: 20px;
@@ -453,7 +456,7 @@ a{
     border: 2px solid #d6c883;
     height: 200px;
     width: 600px;
-  }
+  } */
   
   .form__submit {
     border-radius: 30px;
